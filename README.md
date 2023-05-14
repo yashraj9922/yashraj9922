@@ -7,10 +7,10 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;I'm a Data Science and AI Student at IIIT Dharwad, Karnataka .\
-🌱 &nbsp;I'm a Currently a 1sd year student, mastering my skills in App Development, Data Structures and Algorithms, Machine Learning .\
-<!-- 🧑🏽‍🔬 &nbsp;Quantum Computing Enthusiast. Exploring and Learning Deep Learning and its potential appliaction in Quantum Computing. \ --> -->
+🌱 &nbsp;I'm a Currently a 1sd year student, mastering my skills in App Development, Data Structures and Algorithms, Machine Learning .
+<!-- 🧑🏽‍🔬 &nbsp;Quantum Computing Enthusiast. Exploring and Learning Deep Learning and its potential appliaction in Quantum Computing. \ --> 
 ✍️ &nbsp;I play Basketball and Badminton and love to read Books in my Free Time.\
-✉️ &nbsp;You can connect wit me via email at 22bds066@iiitdwd.ac.in and https://yashraj-iiitdwd.my.canva.site/ . I'll try to respond as soon as I can. 
+✉️ &nbsp;You can connect with me via email at 22bds066@iiitdwd.ac.in or https://yashraj-iiitdwd.my.canva.site/ . I'll try to respond as soon as I can. 
 
 
 
@@ -64,13 +64,15 @@
 </a>
 </p>
 
-
+<!-- 
 <hr>
 <h2 align="center">Github Trophies</h2>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=yashraj9922&theme=darkhub">
 </p>
-</br>  
+</br>   -->
+
+
 <hr>
 <h2 align="center">Connect with me on</h2>
 
