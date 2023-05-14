@@ -9,7 +9,7 @@
 🎓 &nbsp;I'm a Data Science and AI Student at IIIT Dharwad, Karnataka .\
 🌱 &nbsp;I'm a Currently a 1sd year student, mastering my skills in App Development, Data Structures and Algorithms, Machine Learning .\
 <!-- 🧑🏽‍🔬 &nbsp;Quantum Computing Enthusiast. Exploring and Learning Deep Learning and its potential appliaction in Quantum Computing. \ --> -->
-✍️ &nbsp;I play Basketball and Badminton and love to do read Books in my Free Time.\
+✍️ &nbsp;I play Basketball and Badminton and love to read Books in my Free Time.\
 ✉️ &nbsp;You can connect wit me via email at 22bds066@iiitdwd.ac.in and https://yashraj-iiitdwd.my.canva.site/ . I'll try to respond as soon as I can. 
 
 
