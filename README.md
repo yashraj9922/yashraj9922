@@ -1,6 +1,6 @@
 ### 👋🏼 Hi! Welcome to my Github Profile
 
-<h1 align="center"> Yashraj Kadam</h1>
+<h1 align="center"> Yashraj Sanjay Kadam</h1>
 
 ---
 
