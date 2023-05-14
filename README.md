@@ -62,11 +62,12 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/yashraj-kadam/"><img src="https://img.shields.io/badge/-Yashraj%20Kadam-0077B5?style=flat-the-badge&logo=Linkedin&logoColor=white"/></a>
   
 <p align="left">
 <a href="mailto:22bds066@iiitdwd.ac.in"><img src="https://img.shields.io/badge/-22bds066@iiitdwd.ac.in-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<p align="left">
 <a href="mailto:kadamyashraj2004@gmail.com"><img src="https://img.shields.io/badge/-kadamyashraj2004@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <!-- <a href="https://www.instagram.com/90rakeleb_gnaruag/"><img src="https://img.shields.io/badge/-90Rakeleb_gnaruag-E4405F?style=flat-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/zaz.kem"><img src="https://img.shields.io/badge/-Gaurang%20Belekar-1877F2?style=flat-the-badge&logo=Facebook&logoColor=white"/></a> -->
