@@ -7,9 +7,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;I'm a Data Science and AI Student at IIIT Dharwad, Karnataka .\
-🌱 &nbsp;I'm currently a 2nd year student, mastering my skills in App Development, Data Structures & Algorithms and Machine Learning .\
+🌱 &nbsp;I'm currently a 2nd year student, mastering my skills in App Development(Flutter), Data Structures & Algorithms and Machine Learning .\
 ✍️ &nbsp;I play Basketball.
-<!-- ✉️ &nbsp;You can connect with me via email at 22bds066@iiitdwd.ac.in or https://yashraj-iiitdwd.my.canva.site/ . I'll try to respond as soon as I can.  -->
+<!-- ✉️ &nbsp;You can connect with me via email at kadamyashraj2004@gmail.com.in or https://yashraj-iiitdwd.my.canva.site/ . I'll try to respond as soon as I can.  -->
 
 
 
