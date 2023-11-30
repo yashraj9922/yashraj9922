@@ -8,7 +8,7 @@
 
 🎓 &nbsp;I'm a Data Science and AI Student at IIIT Dharwad, Karnataka .\
 🌱 &nbsp;I'm currently a 2nd year student, mastering my skills in App Development(Flutter), Data Structures & Algorithms and Machine Learning .\
-✍️ &nbsp;Gymming
+🤸‍♀️ &nbsp;Gymming
 <!-- ✉️ &nbsp;You can connect with me via email at kadamyashraj2004@gmail.com.in or https://yashraj-iiitdwd.my.canva.site/ . I'll try to respond as soon as I can.  -->
 
 
