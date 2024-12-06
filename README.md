@@ -7,8 +7,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;I'm a Data Science and AI Student at IIIT Dharwad, Karnataka .\
-🌱 &nbsp;I'm currently a 3rd year student, keen interest in Mathematics and ML/DL, Exploring QML .\
-🤸‍♀️ &nbsp;Gymming, Kick-Boxing
+🌱 &nbsp;I'm currently a 3rd year student, keen interest in Mathematics and ML/DL, Speech Recognition and Exploring Quantum ML .\
+🤸‍♀️ &nbsp;Kabbadi
 <!-- ✉️ &nbsp;You can connect with me via email at kadamyashraj2004@gmail.com.in or https://yashraj-iiitdwd.my.canva.site/ . I'll try to respond as soon as I can.  -->
 
 
